@@ -1,1 +1,3 @@
 providence-data
+*.conf
+providence-config/local
