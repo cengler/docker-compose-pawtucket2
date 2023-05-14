@@ -14,3 +14,6 @@ CollectiveAccess - providence + pawtucket2 docker compose ready
 ## Usage with Docker Compose
 
 `docker-compose up -d`
+
+## Providence (first run)
+http://localhost:8080/providence/install/
