@@ -25,7 +25,7 @@ services:
       - DB_ROOT_PASSWORD=rootpass
       - DB_USER=user
       - DB_PASSWORD=pass
-      - DISPLAY_NAME=caeycae
+      - DISPLAY_NAME=Collective (Docker)
       - ADMIN_EMAIL=caeycae@gmail.com
     volumes:
         - ./providence-config:/var/www/providence/app/conf

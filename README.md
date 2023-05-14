@@ -4,8 +4,8 @@ CollectiveAccess - providence + pawtucket2 docker compose ready
 ## About
 
 - Contains both Providence and Pawtucket2
-- Pawtucket is accessed by `https://localhost:8080/`
-- Providence is accessed by `https://localhost:8080/providence`
+- Pawtucket is accessed by `http://localhost:8080/`
+- Providence is accessed by `http://localhost:8080/providence`
 
 ## Image build
 
