@@ -17,3 +17,14 @@ CollectiveAccess - providence + pawtucket2 docker compose ready
 
 ## Providence (first run)
 http://localhost:8080/providence/install/
+
+Select: ISAD(G) - General International Standard Archival Desciption
+
+### Save pass!
+
+In the post instalation message:
+
+`
+Installation was successful!
+You can now login with username administrator and password xxxxxxx.
+`
